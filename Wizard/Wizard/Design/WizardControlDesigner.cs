@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms.Design;
 
-namespace Treorisoft.Wizard.Designers
+namespace Treorisoft.Wizard.Design
 {
     internal class WizardControlDesigner : ParentControlDesigner
     {

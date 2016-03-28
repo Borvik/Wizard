@@ -42,7 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Designers\WizardControlDesigner.cs" />
+    <Compile Include="Design\WizardControlDesigner.cs" />
     <Compile Include="WizardControl.cs">
       <SubType>Component</SubType>
     </Compile>
