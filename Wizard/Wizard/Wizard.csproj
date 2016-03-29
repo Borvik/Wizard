@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="Design\SmartTagBehavior.cs" />
     <Compile Include="Design\SmartTagGlyph.cs" />
+    <Compile Include="Design\SmartTagUI.cs" />
     <Compile Include="Design\WizardControlDesigner.cs" />
     <Compile Include="Editors\SmartTagDropDown.cs">
       <SubType>Component</SubType>
